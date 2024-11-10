@@ -46,8 +46,5 @@ class PerroGuia(Perro):
 perro2 = PerroGuia("Yorkshire", "Juan", "Marron", "Paco")
 perro2.ladrar(perro2.get_dueño())
 
-perro3 = PerroGuia("Pitbull", "MrWorldWide", "Blanco", "Pitbull")
 
-perro4 = PerroGuia("A", "B", "C", "D")
 
-perro5 = PerroGuia()
